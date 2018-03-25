@@ -41,8 +41,8 @@ header {
   margin-top:-2.5em;
   
   border-radius:10em;
-  height:4em;
-  width:4em;
+  height:6em;
+  width:6em;
   
   border: 2px solid #e0e0e0;
   transition : all 0.5s linear;
@@ -91,12 +91,19 @@ header p {
    font-size: 1.05em;
 }
 
-.subtitle {
+.subtitle, .summary {
   font-family: "Merriweather";
   padding-top:.3em;
-  font-size:0.55em;
+  font-size:0.60em;
   font-weight:500;
   color: #424242;
+}
+
+.summary {
+  font-size: 0.60em;
+  width: 80%;
+  margin: auto;
+  text-align: justify;
 }
 
 /* Information */
