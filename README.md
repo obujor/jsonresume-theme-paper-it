@@ -1,4 +1,6 @@
-# JSON-Resume-Paper
+# JSON-Resume-Paper-it
+
+This is an italian translation of [jsonresume-theme-paper](https://github.com/TimDaub/jsonresume-theme-paper).
 
 This is a theme for [JSON Resume](http://jsonresume.org/).
 It is available via npm:
