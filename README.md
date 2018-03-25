@@ -6,7 +6,7 @@ This is a theme for [JSON Resume](http://jsonresume.org/).
 It is available via npm:
 
 ```
-npm install jsonresume-theme-paper
+npm install jsonresume-theme-paper-it
 ```
 
 ## PDF / Printing
